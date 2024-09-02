@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2203,5): warning MSB3274: The primary reference "MySql.Data" could not be resolved because it was built against the ".NETFramework,Version=v4.6.2" framework. This is a higher version than the currently targeted framework ".NETFramework,Version=v4.6.1".
+  MyForm.cpp
+C:\Users\ibayj\Development\WinForm\WinForm\MainForm.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ibayj\Development\WinForm\WinForm\MyForm.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ibayj\Development\WinForm\WinForm\MyForm.h(13,18): error C2653: 'MySql': is not a class or namespace name
+C:\Users\ibayj\Development\WinForm\WinForm\MyForm.h(13,31): error C2039: 'MySqlClient': is not a member of 'System::Data'
+C:\Users\ibayj\Development\WinForm\WinForm\MyForm.h(13,42): error C2871: 'MySqlClient': a namespace with this name does not exist
+C:\Users\ibayj\Development\WinForm\WinForm\MyForm.h(215,2): error C2065: 'MySqlConnection': undeclared identifier
+C:\Users\ibayj\Development\WinForm\WinForm\MyForm.h(215,19): error C2065: 'connect': undeclared identifier
+C:\Users\ibayj\Development\WinForm\WinForm\MyForm.h(215,35): error C2061: syntax error: identifier 'MySqlConnection'
+C:\Users\ibayj\Development\WinForm\WinForm\MyForm.h(218,3): error C2065: 'connect': undeclared identifier

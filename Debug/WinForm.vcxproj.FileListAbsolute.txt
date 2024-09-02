@@ -1,0 +1,4 @@
+C:\Users\ibayj\Development\WinForm\WinForm\Debug\WinForm.vcxproj.AssemblyReference.cache
+C:\Users\ibayj\Development\WinForm\WinForm\Debug\WinForm.MyForm.resources
+C:\Users\ibayj\Development\WinForm\WinForm\Debug\WinForm.vcxproj.GenerateResource.cache
+C:\Users\ibayj\Development\WinForm\WinForm\Debug\WinForm.MainForm.resources
